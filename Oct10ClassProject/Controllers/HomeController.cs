@@ -11,7 +11,7 @@ namespace Oct10ClassProject.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            return View();
+            return View("Test");
         }
     }
 }
